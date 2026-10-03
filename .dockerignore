@@ -1,0 +1,10 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+compose.yaml
+Makefile
+bin/
+*.test
+*.out
+coverage.*
